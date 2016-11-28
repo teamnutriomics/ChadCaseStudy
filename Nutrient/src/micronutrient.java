@@ -54,9 +54,4 @@ public class micronutrient {
 		
 	}
 	
-	public void setConsumed(double val){
-		amountConsumed = val;
-		
-	}
-	
 }
